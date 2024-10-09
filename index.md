@@ -2,8 +2,6 @@
 layout: default
 ---
 
-# Welcome to My Personal Website
-
 I am currently a Postdoctoral Fellow in the Department of Ocean and Mechanical Engineering at Florida Atlantic University (FAU), Florida, US.
 
 ## [Research](research.md)
