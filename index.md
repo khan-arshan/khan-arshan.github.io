@@ -8,6 +8,6 @@ I am currently a Postdoctoral Fellow in the Department of Ocean and Mechanical E
 
 ## [Research](research.md)
 ## [Publications](publications.md)
-## [Experience and Activities](experience.md)
-## [Awards](awards.md)
-## [Contact](contact.md)
+## [Experience and Activities](publications.md)
+## [Awards](publications.md)
+## [Contact](publications.md)
