@@ -1,9 +1,5 @@
 theme: minima  # You can change this to your preferred theme
-#title: Arshan's Webpage
-description: A brief description of my site
-url: https://myawesomesite.com
-baseurl: "" # the subpath of your site, e.g. /blog
-
+title: Arshan Khan  
 navbar:
   - title: Home
     url: /
