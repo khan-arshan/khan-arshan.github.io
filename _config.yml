@@ -2,8 +2,14 @@ theme: minima  # You can change this to your preferred theme
 title: Arshan Khan  
 navbar:
   - title: Home
-    url: /
-  - title: About
+    url: /Home/
+  - title: Research
+    url: /Research/
+  - title: Publications
+    url: /Publications/
+- title: Experience
     url: /Exp/
-  - title: Projects
-    url: /projects/
+   - title: Awards
+    url: /Awards/
+    - title: Contact
+    url: /Contact/
