@@ -1,5 +1,6 @@
 theme: minima  # You can change this to your preferred theme
 title: Arshan Khan  
+
 navbar:
   - title: Home
     url: /Home/
@@ -7,9 +8,9 @@ navbar:
     url: /Research/
   - title: Publications
     url: /Publications/
-- title: Experience
-    url: /Exp/
-   - title: Awards
+  - title: Awards
     url: /Awards/
-    - title: Contact
+  - title: Experience
+    url: /Exp/
+  - title: Contact
     url: /Contact/
